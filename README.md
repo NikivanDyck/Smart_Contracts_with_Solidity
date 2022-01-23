@@ -13,7 +13,6 @@ In this project, I will set up a local blockchain development environment, creat
 * Solidity
 * Remix - Ethereum
 
-
 ## Link to Screenprints within GIT repo (https://github.com/NikivanDyck/Smart_Contracts_with_Solidity/tree/main/Files) also below
 
 Completed Complier
